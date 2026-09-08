@@ -5,13 +5,13 @@ about:
   head: 20622e1
   archived: false
   latestVersion: "26.5.1"
-  collectedAt: 2026-09-08T02:02:22Z
+  collectedAt: 2026-09-08T04:44:33Z
 timeline:
   created: 2018-03-14
   lastCommit: 2026-09-03
   lastRelease: 2026-05-18
 popularity:
-  star: 41834
+  star: 41833
   watcher: 227
   fork: 2864
   release: 55
@@ -82,7 +82,7 @@ total:
   commit: 2321
 ---
 path: /home/runner/.x-repo/github.com/psf/black
-collectedAt: 2026-09-08T02:02:24Z
+collectedAt: 2026-09-08T04:44:37Z
 loc:
   Python:
     code: 122098
