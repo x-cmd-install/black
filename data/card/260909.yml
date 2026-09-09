@@ -7,7 +7,7 @@ about:
   latestVersion: "26.5.1"
   latestRelease: "26.5.1"
   latestPrerelease: "26.1a1"
-  collectedAt: 2026-09-09T04:58:39Z
+  collectedAt: 2026-09-09T18:58:27Z
 timeline:
   created: 2018-03-14
   lastCommit: 2026-09-03
@@ -86,7 +86,7 @@ total:
   commit: 2321
 ---
 path: /home/runner/.x-repo/github.com/psf/black
-collectedAt: 2026-09-09T04:58:42Z
+collectedAt: 2026-09-09T18:58:30Z
 loc:
   Python:
     code: 122098
