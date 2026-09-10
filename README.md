@@ -23,11 +23,20 @@ x install black
 - **Latest**: `26.5.1` (2026-05-18)
 - **Last commit**: 2026-09-03
 - **Assets in release**: 5
-- **Published**: 2026-05-18T16:52:38Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [black_linux](https://github.com/psf/black/releases/download/26.5.1/black_linux) | 26.1 MiB | `other` |
+| [black_linux-arm](https://github.com/psf/black/releases/download/26.5.1/black_linux-arm) | 25.1 MiB | `native/linux/arm` |
+| [black_macos](https://github.com/psf/black/releases/download/26.5.1/black_macos) | 11.0 MiB | `native/darwin/x64` |
+| [black_windows-arm.exe](https://github.com/psf/black/releases/download/26.5.1/black_windows-arm.exe) | 11.5 MiB | `native/win/x64` |
+| [black_windows.exe](https://github.com/psf/black/releases/download/26.5.1/black_windows.exe) | 11.7 MiB | `native/win/x64` |
 
 ## Popularity
 
-- **Stars**: 41,837 · **Forks**: 2,866 · **Open issues**: 2,819 · **Contributors**: 552
+- **Stars**: 41,841 · **Forks**: 2,865 · **Open issues**: 2,819 · **Contributors**: 552
 
 ## Totals (cumulative)
 
@@ -68,8 +77,8 @@ Lowest-scoring checks:
 Install metadata for black lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `black` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/black.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/black.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:45:56Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:27:43Z._

@@ -4,7 +4,7 @@
 
 The uncompromising Python code formatter
 
-![black](https://repo.x-cmd.io/black.svg)
+![black](https://repo.x-cmd.io/black.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,20 @@ x install black
 - **最新版本**: `26.5.1` (2026-05-18)
 - **最近提交**: 2026-09-03
 - **Release 含资产**: 5 个
-- **发布时间**: 2026-05-18T16:52:38Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [black_linux](https://github.com/psf/black/releases/download/26.5.1/black_linux) | 26.1 MiB | `other` |
+| [black_linux-arm](https://github.com/psf/black/releases/download/26.5.1/black_linux-arm) | 25.1 MiB | `native/linux/arm` |
+| [black_macos](https://github.com/psf/black/releases/download/26.5.1/black_macos) | 11.0 MiB | `native/darwin/x64` |
+| [black_windows-arm.exe](https://github.com/psf/black/releases/download/26.5.1/black_windows-arm.exe) | 11.5 MiB | `native/win/x64` |
+| [black_windows.exe](https://github.com/psf/black/releases/download/26.5.1/black_windows.exe) | 11.7 MiB | `native/win/x64` |
 
 ## 流行度
 
-- **Star**: 41,837 · **Fork**: 2,866 · **开放 issue**: 2,819 · **贡献者**: 552
+- **Star**: 41,841 · **Fork**: 2,865 · **开放 issue**: 2,819 · **贡献者**: 552
 
 ## 累计统计
 
@@ -72,4 +81,4 @@ black 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:45:57Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:27:44Z._
