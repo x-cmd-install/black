@@ -48,22 +48,22 @@ x install black
 
 ## 流行度
 
-- **Star**: 41,840 · **Fork**: 2,867 · **开放 issue**: 2,819 · **贡献者**: 551
+- **Star**: 41,845 · **Fork**: 2,869 · **开放 issue**: 2,821 · **贡献者**: 551
 
 ## 累计统计
 
-- **发布数**: 55 · **已合并 PR**: 1901 · **开放 PR**: 45 · **已关闭 issue**: 2551 · **开放 issue**: 268 · **提交数**: 2321
+- **发布数**: 55 · **已合并 PR**: 1901 · **开放 PR**: 48 · **已关闭 issue**: 2551 · **开放 issue**: 270 · **提交数**: 2321
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 15 | 20 | 3 | 4 | 18 |
-| last60d | 2026-07-15 | 0 | 48 | 34 | 11 | 6 | 51 |
-| 90d | 2026-06-15 | 0 | 80 | 38 | 17 | 8 | 80 |
-| last180d | 2026-03-17 | 2 | 150 | 41 | 29 | 10 | 150 |
-| 360d | 2025-09-18 | 9 | 296 | 45 | 76 | 14 | 300 |
-| last720d | 2024-09-23 | 11 | 408 | 45 | 179 | 20 | 410 |
+| 30d | 2026-08-15 | 0 | 14 | 23 | 3 | 6 | 7 |
+| last60d | 2026-07-16 | 0 | 48 | 37 | 11 | 8 | 42 |
+| 90d | 2026-06-16 | 0 | 79 | 41 | 17 | 10 | 76 |
+| last180d | 2026-03-18 | 2 | 150 | 44 | 29 | 12 | 147 |
+| 360d | 2025-09-19 | 9 | 292 | 48 | 74 | 16 | 290 |
+| last720d | 2024-09-24 | 11 | 408 | 48 | 179 | 22 | 410 |
 
 ## Release 资产
 
@@ -75,25 +75,6 @@ x install black
 | [black_windows-arm.exe](https://github.com/psf/black/releases/download/26.5.1/black_windows-arm.exe) | 11.5 MiB | `native/win/x64` |
 | [black_windows.exe](https://github.com/psf/black/releases/download/26.5.1/black_windows.exe) | 11.7 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/black) 上共有 **166** 个发行版报告此项目。**43** 个 ✅ 已是最新上游版本，**116** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `26.5.1` | ✅ latest |
-| Debian 14 | `26.5.1` | ✅ latest |
-| Debian 13 | `25.1.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `26.3.1` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `24.2.0` | ⚠️ outdated |
-| Arch | `26.5.1` | ✅ latest |
-| Homebrew | `26.5.1` | ✅ latest |
-| Fedora rawhide | `26.5.1` | ✅ latest |
-| Nix unstable | `26.5.1` | ✅ latest |
-| Void | `26.5.1` | ✅ latest |
-| Alpine edge | `26.3.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `26.5.1` | ✅ latest |
-
 ## 改进这些数据
 
 black 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `black` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -103,4 +84,4 @@ black 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T04:55:34Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:02:05Z._

@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 41,840 · **Forks**: 2,867 · **Open issues**: 2,819 · **Contributors**: 551
+- **Stars**: 41,845 · **Forks**: 2,869 · **Open issues**: 2,821 · **Contributors**: 551
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 1901 · **Open PRs**: 45 · **Closed issues**: 2551 · **Open issues**: 268 · **Commits**: 2321
+- **Releases**: 55 · **Merged PRs**: 1901 · **Open PRs**: 48 · **Closed issues**: 2551 · **Open issues**: 270 · **Commits**: 2321
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 15 | 20 | 3 | 4 | 18 |
-| last60d | 2026-07-15 | 0 | 48 | 34 | 11 | 6 | 51 |
-| 90d | 2026-06-15 | 0 | 80 | 38 | 17 | 8 | 80 |
-| last180d | 2026-03-17 | 2 | 150 | 41 | 29 | 10 | 150 |
-| 360d | 2025-09-18 | 9 | 296 | 45 | 76 | 14 | 300 |
-| last720d | 2024-09-23 | 11 | 408 | 45 | 179 | 20 | 410 |
+| 30d | 2026-08-15 | 0 | 14 | 23 | 3 | 6 | 7 |
+| last60d | 2026-07-16 | 0 | 48 | 37 | 11 | 8 | 42 |
+| 90d | 2026-06-16 | 0 | 79 | 41 | 17 | 10 | 76 |
+| last180d | 2026-03-18 | 2 | 150 | 44 | 29 | 12 | 147 |
+| 360d | 2025-09-19 | 9 | 292 | 48 | 74 | 16 | 290 |
+| last720d | 2024-09-24 | 11 | 408 | 48 | 179 | 22 | 410 |
 
 ## Release assets
 
@@ -75,25 +75,6 @@ Lowest-scoring checks:
 | [black_windows-arm.exe](https://github.com/psf/black/releases/download/26.5.1/black_windows-arm.exe) | 11.5 MiB | `native/win/x64` |
 | [black_windows.exe](https://github.com/psf/black/releases/download/26.5.1/black_windows.exe) | 11.7 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **166** distros on [repology.org](https://repology.org/project/black). **43** are ✅ on the latest upstream release, **116** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `26.5.1` | ✅ latest |
-| Debian 14 | `26.5.1` | ✅ latest |
-| Debian 13 | `25.1.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `26.3.1` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `24.2.0` | ⚠️ outdated |
-| Arch | `26.5.1` | ✅ latest |
-| Homebrew | `26.5.1` | ✅ latest |
-| Fedora rawhide | `26.5.1` | ✅ latest |
-| Nix unstable | `26.5.1` | ✅ latest |
-| Void | `26.5.1` | ✅ latest |
-| Alpine edge | `26.3.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `26.5.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for black lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `black` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -103,4 +84,4 @@ Install metadata for black lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:55:33Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:02:04Z._
