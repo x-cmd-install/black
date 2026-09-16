@@ -14,11 +14,11 @@ x install black
 
 ## Code insight
 
-Total: **123,087** lines of code across **352** files in the top 5 languages.
+Total: **123,099** lines of code across **352** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 122,098 | 3,799 | 7,809 | 332 |
+| Python | 122,110 | 3,799 | 7,811 | 332 |
 | VimScript | 370 | 8 | 20 | 2 |
 | Toml | 241 | 35 | 35 | 16 |
 | Json | 163 | 0 | 0 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `26.5.1` (2026-05-18)
-- **Last commit**: 2026-09-03
+- **Last commit**: 2026-09-16
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 41,842 · **Forks**: 2,873 · **Open issues**: 2,821 · **Contributors**: 551
+- **Stars**: 41,843 · **Forks**: 2,871 · **Open issues**: 2,821 · **Contributors**: 552
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 1901 · **Open PRs**: 52 · **Closed issues**: 2551 · **Open issues**: 270 · **Commits**: 2321
+- **Releases**: 55 · **Merged PRs**: 1903 · **Open PRs**: 40 · **Closed issues**: 2555 · **Open issues**: 266 · **Commits**: 2323
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 12 | 27 | 3 | 6 | 7 |
-| last60d | 2026-07-17 | 0 | 46 | 41 | 11 | 8 | 42 |
-| 90d | 2026-06-17 | 0 | 77 | 44 | 17 | 10 | 76 |
-| last180d | 2026-03-19 | 2 | 149 | 48 | 28 | 12 | 147 |
-| 360d | 2025-09-20 | 8 | 291 | 52 | 74 | 16 | 290 |
-| last720d | 2024-09-25 | 11 | 408 | 52 | 179 | 22 | 410 |
+| 30d | 2026-08-17 | 0 | 12 | 21 | 4 | 5 | 9 |
+| last60d | 2026-07-18 | 0 | 47 | 30 | 11 | 7 | 44 |
+| 90d | 2026-06-18 | 0 | 79 | 33 | 17 | 9 | 78 |
+| last180d | 2026-03-20 | 2 | 150 | 37 | 29 | 11 | 149 |
+| 360d | 2025-09-21 | 8 | 293 | 40 | 73 | 15 | 292 |
+| last720d | 2024-09-26 | 11 | 410 | 40 | 180 | 21 | 412 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for black lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:03:56Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:02:07Z._
