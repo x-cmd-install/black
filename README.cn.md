@@ -4,7 +4,7 @@
 
 The uncompromising Python code formatter
 
-![black](https://repo.x-cmd.io/black.svg?lang=zh)
+[![x-cmd/install — black Code Quality Monitoring Repo Card](https://repo.x-cmd.io/black.svg?lang=zh)](https://x-cmd.com/install/black)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install black
 
 ## 流行度
 
-- **Star**: 41,845 · **Fork**: 2,872 · **开放 issue**: 2,821 · **贡献者**: 552
+- **Star**: 41,846 · **Fork**: 2,873 · **开放 issue**: 2,821 · **贡献者**: 552
 
 ## 累计统计
 
-- **发布数**: 55 · **已合并 PR**: 1903 · **开放 PR**: 45 · **已关闭 issue**: 2555 · **开放 issue**: 266 · **提交数**: 2323
+- **发布数**: 55 · **已合并 PR**: 1903 · **开放 PR**: 46 · **已关闭 issue**: 2555 · **开放 issue**: 266 · **提交数**: 2323
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 9 | 26 | 3 | 5 | 9 |
-| last60d | 2026-07-20 | 0 | 47 | 35 | 11 | 7 | 44 |
-| 90d | 2026-06-20 | 0 | 74 | 38 | 17 | 9 | 78 |
-| last180d | 2026-03-22 | 2 | 150 | 42 | 29 | 11 | 149 |
-| 360d | 2025-09-23 | 8 | 292 | 45 | 73 | 15 | 292 |
-| last720d | 2024-09-28 | 11 | 409 | 45 | 179 | 21 | 411 |
+| 30d | 2026-08-21 | 0 | 7 | 24 | 3 | 4 | 9 |
+| last60d | 2026-07-22 | 0 | 41 | 35 | 10 | 7 | 44 |
+| 90d | 2026-06-22 | 0 | 73 | 39 | 16 | 9 | 78 |
+| last180d | 2026-03-24 | 2 | 150 | 43 | 29 | 11 | 149 |
+| 360d | 2025-09-25 | 8 | 290 | 46 | 73 | 15 | 292 |
+| last720d | 2024-09-30 | 11 | 408 | 46 | 178 | 21 | 411 |
 
 ## Release 资产
 
@@ -84,4 +84,4 @@ black 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:06:04Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:00:53Z._
