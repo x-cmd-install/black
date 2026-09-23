@@ -4,7 +4,7 @@
 
 The uncompromising Python code formatter
 
-[![x-cmd/install — black Code Quality Monitoring Repo Card](https://repo.x-cmd.io/black.svg?lang=zh)](https://x-cmd.com/install/black)
+[![x-cmd/install — black Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/black.svg?lang=zh)](https://x-cmd.com/install/black)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install black
 
 ## 代码洞察
 
-合计: **123,427** 行代码（覆盖前 5 种语言、共 **359** 个文件）。
+合计: **123,493** 行代码（覆盖前 5 种语言、共 **360** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 122,437 | 3,852 | 7,848 | 339 |
+| Python | 122,503 | 3,885 | 7,869 | 340 |
 | VimScript | 370 | 8 | 20 | 2 |
 | Toml | 241 | 35 | 35 | 16 |
 | Json | 164 | 0 | 0 | 1 |
@@ -48,22 +48,22 @@ x install black
 
 ## 流行度
 
-- **Star**: 41,849 · **Fork**: 2,878 · **开放 issue**: 2,822 · **贡献者**: 557
+- **Star**: 41,851 · **Fork**: 2,881 · **开放 issue**: 2,822 · **贡献者**: 559
 
 ## 累计统计
 
-- **发布数**: 55 · **已合并 PR**: 1913 · **开放 PR**: 37 · **已关闭 issue**: 2561 · **开放 issue**: 261 · **提交数**: 2333
+- **发布数**: 55 · **已合并 PR**: 1916 · **开放 PR**: 35 · **已关闭 issue**: 2563 · **开放 issue**: 259 · **提交数**: 2336
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 16 | 17 | 5 | 3 | 19 |
-| last60d | 2026-07-24 | 0 | 48 | 28 | 11 | 6 | 44 |
-| 90d | 2026-06-24 | 0 | 80 | 32 | 19 | 7 | 79 |
-| last180d | 2026-03-26 | 2 | 158 | 34 | 32 | 9 | 153 |
-| 360d | 2025-09-27 | 8 | 299 | 37 | 76 | 13 | 300 |
-| last720d | 2024-10-02 | 11 | 418 | 37 | 181 | 19 | 420 |
+| 30d | 2026-08-24 | 0 | 18 | 15 | 5 | 3 | 22 |
+| last60d | 2026-07-25 | 0 | 51 | 25 | 11 | 6 | 47 |
+| 90d | 2026-06-25 | 0 | 82 | 30 | 19 | 7 | 82 |
+| last180d | 2026-03-27 | 2 | 160 | 32 | 32 | 9 | 156 |
+| 360d | 2025-09-28 | 8 | 302 | 35 | 76 | 13 | 303 |
+| last720d | 2024-10-03 | 11 | 421 | 35 | 181 | 19 | 423 |
 
 ## Release 资产
 
@@ -84,4 +84,4 @@ black 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:59:17Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:05:13Z._
