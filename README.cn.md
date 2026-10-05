@@ -14,14 +14,14 @@ x install black
 
 ## 代码洞察
 
-合计: **124,732** 行代码（覆盖前 5 种语言、共 **370** 个文件）。
+合计: **125,178** 行代码（覆盖前 5 种语言、共 **374** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 123,723 | 4,025 | 8,117 | 350 |
+| Python | 124,163 | 4,088 | 8,191 | 354 |
 | VimScript | 370 | 8 | 20 | 2 |
 | Toml | 242 | 35 | 35 | 16 |
-| Json | 168 | 0 | 0 | 1 |
+| Json | 174 | 0 | 0 | 1 |
 | Yaml | 91 | 5 | 5 | 1 |
 
 ## OpenSSF Scorecard 评分
@@ -42,38 +42,38 @@ x install black
 
 ## 发布
 
-- **最新版本**: `26.5.1` (2026-05-18)
-- **最近提交**: 2026-10-04
+- **最新版本**: `26.10.0` (2026-10-04)
+- **最近提交**: 2026-10-05
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 41,861 · **Fork**: 2,906 · **开放 issue**: 2,829 · **贡献者**: 577
+- **Star**: 41,865 · **Fork**: 2,908 · **开放 issue**: 2,828 · **贡献者**: 581
 
 ## 累计统计
 
-- **发布数**: 55 · **已合并 PR**: 1945 · **开放 PR**: 37 · **已关闭 issue**: 2585 · **开放 issue**: 244 · **提交数**: 2365
+- **发布数**: 56 · **已合并 PR**: 1954 · **开放 PR**: 33 · **已关闭 issue**: 2588 · **开放 issue**: 240 · **提交数**: 2374
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 0 | 36 | 19 | 10 | 2 | 44 |
-| last60d | 2026-08-05 | 0 | 59 | 26 | 18 | 3 | 62 |
-| 90d | 2026-07-06 | 0 | 100 | 30 | 22 | 5 | 97 |
-| last180d | 2026-04-07 | 2 | 182 | 34 | 40 | 7 | 175 |
-| 360d | 2025-10-09 | 8 | 320 | 37 | 81 | 10 | 326 |
-| last720d | 2024-10-14 | 10 | 444 | 37 | 185 | 17 | 447 |
+| 30d | 2026-09-05 | 1 | 45 | 15 | 8 | 2 | 53 |
+| last60d | 2026-08-06 | 1 | 67 | 22 | 17 | 3 | 71 |
+| 90d | 2026-07-07 | 1 | 109 | 26 | 21 | 5 | 106 |
+| last180d | 2026-04-08 | 3 | 190 | 30 | 40 | 6 | 184 |
+| 360d | 2025-10-10 | 9 | 329 | 33 | 81 | 9 | 335 |
+| last720d | 2024-10-15 | 11 | 452 | 33 | 185 | 16 | 454 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [black_linux](https://github.com/psf/black/releases/download/26.5.1/black_linux) | 26.1 MiB | `other` |
-| [black_linux-arm](https://github.com/psf/black/releases/download/26.5.1/black_linux-arm) | 25.1 MiB | `native/linux/arm` |
-| [black_macos](https://github.com/psf/black/releases/download/26.5.1/black_macos) | 11.0 MiB | `native/darwin/x64` |
-| [black_windows-arm.exe](https://github.com/psf/black/releases/download/26.5.1/black_windows-arm.exe) | 11.5 MiB | `native/win/x64` |
-| [black_windows.exe](https://github.com/psf/black/releases/download/26.5.1/black_windows.exe) | 11.7 MiB | `native/win/x64` |
+| [black_linux](https://github.com/psf/black/releases/download/26.10.0/black_linux) | 11.9 MiB | `other` |
+| [black_linux-arm](https://github.com/psf/black/releases/download/26.10.0/black_linux-arm) | 11.6 MiB | `native/linux/arm` |
+| [black_macos](https://github.com/psf/black/releases/download/26.10.0/black_macos) | 12.8 MiB | `native/darwin/x64` |
+| [black_windows-arm.exe](https://github.com/psf/black/releases/download/26.10.0/black_windows-arm.exe) | 13.1 MiB | `native/win/x64` |
+| [black_windows.exe](https://github.com/psf/black/releases/download/26.10.0/black_windows.exe) | 13.4 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -84,4 +84,4 @@ black 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261004.yml` · 2026-10-04T06:01:06Z._
+_数据快照: `data/card/261005.yml` · 2026-10-05T05:40:41Z._

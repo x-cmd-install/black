@@ -14,14 +14,14 @@ x install black
 
 ## Code insight
 
-Total: **124,732** lines of code across **370** files in the top 5 languages.
+Total: **125,178** lines of code across **374** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 123,723 | 4,025 | 8,117 | 350 |
+| Python | 124,163 | 4,088 | 8,191 | 354 |
 | VimScript | 370 | 8 | 20 | 2 |
 | Toml | 242 | 35 | 35 | 16 |
-| Json | 168 | 0 | 0 | 1 |
+| Json | 174 | 0 | 0 | 1 |
 | Yaml | 91 | 5 | 5 | 1 |
 
 ## OpenSSF Scorecard
@@ -42,38 +42,38 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `26.5.1` (2026-05-18)
-- **Last commit**: 2026-10-04
+- **Latest**: `26.10.0` (2026-10-04)
+- **Last commit**: 2026-10-05
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 41,861 · **Forks**: 2,906 · **Open issues**: 2,829 · **Contributors**: 577
+- **Stars**: 41,865 · **Forks**: 2,908 · **Open issues**: 2,828 · **Contributors**: 581
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 1945 · **Open PRs**: 37 · **Closed issues**: 2585 · **Open issues**: 244 · **Commits**: 2365
+- **Releases**: 56 · **Merged PRs**: 1954 · **Open PRs**: 33 · **Closed issues**: 2588 · **Open issues**: 240 · **Commits**: 2374
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 0 | 36 | 19 | 10 | 2 | 44 |
-| last60d | 2026-08-05 | 0 | 59 | 26 | 18 | 3 | 62 |
-| 90d | 2026-07-06 | 0 | 100 | 30 | 22 | 5 | 97 |
-| last180d | 2026-04-07 | 2 | 182 | 34 | 40 | 7 | 175 |
-| 360d | 2025-10-09 | 8 | 320 | 37 | 81 | 10 | 326 |
-| last720d | 2024-10-14 | 10 | 444 | 37 | 185 | 17 | 447 |
+| 30d | 2026-09-05 | 1 | 45 | 15 | 8 | 2 | 53 |
+| last60d | 2026-08-06 | 1 | 67 | 22 | 17 | 3 | 71 |
+| 90d | 2026-07-07 | 1 | 109 | 26 | 21 | 5 | 106 |
+| last180d | 2026-04-08 | 3 | 190 | 30 | 40 | 6 | 184 |
+| 360d | 2025-10-10 | 9 | 329 | 33 | 81 | 9 | 335 |
+| last720d | 2024-10-15 | 11 | 452 | 33 | 185 | 16 | 454 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [black_linux](https://github.com/psf/black/releases/download/26.5.1/black_linux) | 26.1 MiB | `other` |
-| [black_linux-arm](https://github.com/psf/black/releases/download/26.5.1/black_linux-arm) | 25.1 MiB | `native/linux/arm` |
-| [black_macos](https://github.com/psf/black/releases/download/26.5.1/black_macos) | 11.0 MiB | `native/darwin/x64` |
-| [black_windows-arm.exe](https://github.com/psf/black/releases/download/26.5.1/black_windows-arm.exe) | 11.5 MiB | `native/win/x64` |
-| [black_windows.exe](https://github.com/psf/black/releases/download/26.5.1/black_windows.exe) | 11.7 MiB | `native/win/x64` |
+| [black_linux](https://github.com/psf/black/releases/download/26.10.0/black_linux) | 11.9 MiB | `other` |
+| [black_linux-arm](https://github.com/psf/black/releases/download/26.10.0/black_linux-arm) | 11.6 MiB | `native/linux/arm` |
+| [black_macos](https://github.com/psf/black/releases/download/26.10.0/black_macos) | 12.8 MiB | `native/darwin/x64` |
+| [black_windows-arm.exe](https://github.com/psf/black/releases/download/26.10.0/black_windows-arm.exe) | 13.1 MiB | `native/win/x64` |
+| [black_windows.exe](https://github.com/psf/black/releases/download/26.10.0/black_windows.exe) | 13.4 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -84,4 +84,4 @@ Install metadata for black lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T06:01:04Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T05:40:40Z._
