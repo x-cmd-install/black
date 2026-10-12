@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 41,891 · **Forks**: 2,921 · **Open issues**: 2,832 · **Contributors**: 584
+- **Stars**: 41,900 · **Forks**: 2,925 · **Open issues**: 2,833 · **Contributors**: 584
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 1976 · **Open PRs**: 29 · **Closed issues**: 2601 · **Open issues**: 231 · **Commits**: 2396
+- **Releases**: 57 · **Merged PRs**: 1976 · **Open PRs**: 34 · **Closed issues**: 2601 · **Open issues**: 232 · **Commits**: 2396
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 2 | 62 | 15 | 12 | 1 | 73 |
-| last60d | 2026-08-12 | 2 | 85 | 19 | 18 | 2 | 91 |
-| 90d | 2026-07-13 | 2 | 126 | 22 | 27 | 3 | 126 |
-| last180d | 2026-04-14 | 4 | 205 | 26 | 45 | 4 | 204 |
-| 360d | 2025-10-16 | 10 | 351 | 29 | 83 | 7 | 355 |
-| last720d | 2024-10-21 | 12 | 473 | 29 | 190 | 14 | 475 |
+| 30d | 2026-09-12 | 2 | 61 | 21 | 12 | 2 | 73 |
+| last60d | 2026-08-13 | 2 | 85 | 25 | 18 | 3 | 88 |
+| 90d | 2026-07-14 | 2 | 125 | 27 | 27 | 4 | 126 |
+| last180d | 2026-04-15 | 4 | 203 | 31 | 45 | 5 | 199 |
+| 360d | 2025-10-17 | 10 | 351 | 34 | 83 | 8 | 344 |
+| last720d | 2024-10-22 | 12 | 472 | 34 | 186 | 15 | 475 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for black lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:49:59Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:01:42Z._
