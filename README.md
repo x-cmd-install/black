@@ -14,14 +14,14 @@ x install black
 
 ## Code insight
 
-Total: **126,483** lines of code across **385** files in the top 5 languages.
+Total: **127,770** lines of code across **399** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 125,464 | 4,272 | 8,421 | 365 |
+| Python | 126,748 | 4,503 | 8,673 | 379 |
 | VimScript | 370 | 8 | 20 | 2 |
 | Toml | 242 | 35 | 35 | 16 |
-| Json | 178 | 0 | 0 | 1 |
+| Json | 181 | 0 | 0 | 1 |
 | Yaml | 91 | 5 | 5 | 1 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `26.10.1` (2026-10-10)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-22
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 41,972 · **Forks**: 2,939 · **Open issues**: 2,838 · **Contributors**: 587
+- **Stars**: 41,988 · **Forks**: 2,945 · **Open issues**: 2,838 · **Contributors**: 591
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 1993 · **Open PRs**: 56 · **Closed issues**: 2605 · **Open issues**: 233 · **Commits**: 2412
+- **Releases**: 57 · **Merged PRs**: 2013 · **Open PRs**: 48 · **Closed issues**: 2614 · **Open issues**: 224 · **Commits**: 2432
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 64 | 43 | 12 | 4 | 71 |
-| last60d | 2026-08-23 | 2 | 91 | 45 | 19 | 5 | 98 |
-| 90d | 2026-07-24 | 2 | 128 | 48 | 27 | 6 | 127 |
-| last180d | 2026-04-25 | 4 | 212 | 53 | 47 | 7 | 208 |
-| 360d | 2025-10-27 | 10 | 355 | 56 | 84 | 10 | 353 |
-| last720d | 2024-11-01 | 12 | 487 | 56 | 185 | 17 | 489 |
+| 30d | 2026-09-23 | 2 | 81 | 35 | 13 | 3 | 91 |
+| last60d | 2026-08-24 | 2 | 110 | 37 | 20 | 4 | 118 |
+| 90d | 2026-07-25 | 2 | 147 | 40 | 28 | 5 | 147 |
+| last180d | 2026-04-26 | 4 | 232 | 45 | 48 | 6 | 228 |
+| 360d | 2025-10-28 | 10 | 375 | 48 | 85 | 9 | 373 |
+| last720d | 2024-11-02 | 12 | 507 | 48 | 187 | 15 | 509 |
 
 ## Release assets
 
@@ -75,6 +75,25 @@ Lowest-scoring checks:
 | [black_windows-arm.exe](https://github.com/psf/black/releases/download/26.10.1/black_windows-arm.exe) | 13.1 MiB | `native/win/x64` |
 | [black_windows.exe](https://github.com/psf/black/releases/download/26.10.1/black_windows.exe) | 13.4 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **165** distros on [repology.org](https://repology.org/project/black). **20** are ✅ on the latest upstream release, **134** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `26.10.1` | ✅ latest |
+| Debian 14 | `26.10.0` | ⚠️ outdated |
+| Debian 13 | `25.1.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `26.3.1` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `24.2.0` | ⚠️ outdated |
+| Arch | `26.10.1` | ✅ latest |
+| Homebrew | `26.10.1` | ✅ latest |
+| Fedora rawhide | `26.5.1` | ⚠️ outdated |
+| Nix unstable | `26.5.1` | ⚠️ outdated |
+| Void | `26.5.1` | ⚠️ outdated |
+| Alpine edge | `26.3.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `26.5.1` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for black lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `black` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -84,4 +103,4 @@ Install metadata for black lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:42:12Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:50:12Z._
