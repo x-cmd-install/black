@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 12514464,
       "digest": "sha256:94324773c2d112e7a4d62052ac9d7ed811ff1c826599f6d394e7b65d16ab1278",
-      "download_count": 1184,
+      "download_count": 1296,
       "created_at": "2026-10-10T04:09:18Z",
       "updated_at": "2026-10-10T04:09:19Z",
       "browser_download_url": "https://github.com/psf/black/releases/download/26.10.1/black_linux"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 12172272,
       "digest": "sha256:a470befedf349ea38391b00f0a10b84bdca645cc9df0cd5db70d4cf7a4efa2b5",
-      "download_count": 142,
+      "download_count": 147,
       "created_at": "2026-10-10T04:09:14Z",
       "updated_at": "2026-10-10T04:09:15Z",
       "browser_download_url": "https://github.com/psf/black/releases/download/26.10.1/black_linux-arm"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 13410176,
       "digest": "sha256:1336c90c027f854e9806ca8476c4f4ce84d3a3eb4bc5495797f0446ee253d2c2",
-      "download_count": 99,
+      "download_count": 108,
       "created_at": "2026-10-10T04:09:39Z",
       "updated_at": "2026-10-10T04:09:40Z",
       "browser_download_url": "https://github.com/psf/black/releases/download/26.10.1/black_macos"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 13733113,
       "digest": "sha256:8b2233f85d92cef5f916c44b6b9b51530dd3502c6a396ecf8ddda807544b3d0c",
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2026-10-10T04:11:19Z",
       "updated_at": "2026-10-10T04:11:19Z",
       "browser_download_url": "https://github.com/psf/black/releases/download/26.10.1/black_windows-arm.exe"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 14008196,
       "digest": "sha256:9901f869bcfe0df3304ee7a42913dc3a8f6d85ad4feff6f6c30c26bfd7063dd4",
-      "download_count": 85,
+      "download_count": 89,
       "created_at": "2026-10-10T04:10:18Z",
       "updated_at": "2026-10-10T04:10:19Z",
       "browser_download_url": "https://github.com/psf/black/releases/download/26.10.1/black_windows.exe"
