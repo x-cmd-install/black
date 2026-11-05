@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `26.10.1` (2026-10-10)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-04
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 42,114 · **Forks**: 2,959 · **Open issues**: 2,840 · **Contributors**: 601
+- **Stars**: 42,121 · **Forks**: 2,963 · **Open issues**: 2,840 · **Contributors**: 603
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 2069 · **Open PRs**: 35 · **Closed issues**: 2627 · **Open issues**: 213 · **Commits**: 2488
+- **Releases**: 57 · **Merged PRs**: 2070 · **Open PRs**: 37 · **Closed issues**: 2627 · **Open issues**: 213 · **Commits**: 2489
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 1 | 102 | 24 | 7 | 3 | 104 |
-| last60d | 2026-09-05 | 2 | 158 | 28 | 18 | 4 | 167 |
-| 90d | 2026-08-06 | 2 | 180 | 31 | 27 | 5 | 185 |
-| last180d | 2026-05-08 | 4 | 284 | 35 | 45 | 7 | 283 |
-| 360d | 2025-11-09 | 10 | 423 | 35 | 83 | 9 | 414 |
-| last720d | 2024-11-14 | 12 | 562 | 35 | 183 | 14 | 564 |
+| 30d | 2026-10-06 | 1 | 102 | 26 | 7 | 3 | 105 |
+| last60d | 2026-09-06 | 2 | 158 | 30 | 17 | 4 | 168 |
+| 90d | 2026-08-07 | 2 | 180 | 33 | 27 | 5 | 186 |
+| last180d | 2026-05-09 | 4 | 285 | 37 | 45 | 7 | 284 |
+| 360d | 2025-11-10 | 10 | 418 | 37 | 82 | 8 | 415 |
+| last720d | 2024-11-15 | 12 | 563 | 37 | 182 | 14 | 561 |
 
 ## Release assets
 
@@ -87,7 +87,7 @@ Reported by **165** distros on [repology.org](https://repology.org/project/black
 | Ubuntu 26.04 LTS | `26.3.1` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `24.2.0` | ⚠️ outdated |
 | Arch | `26.10.1` | ✅ latest |
-| Homebrew | `26.10.1` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `26.5.1` | ⚠️ outdated |
 | Nix unstable | `26.5.1` | ⚠️ outdated |
 | Void | `26.5.1` | ⚠️ outdated |
@@ -103,4 +103,4 @@ Install metadata for black lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:20:12Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:46:56Z._
