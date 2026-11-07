@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 42,118 · **Forks**: 2,965 · **Open issues**: 2,841 · **Contributors**: 603
+- **Stars**: 42,125 · **Forks**: 2,971 · **Open issues**: 2,841 · **Contributors**: 603
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 2070 · **Open PRs**: 40 · **Closed issues**: 2627 · **Open issues**: 214 · **Commits**: 2489
+- **Releases**: 57 · **Merged PRs**: 2070 · **Open PRs**: 42 · **Closed issues**: 2627 · **Open issues**: 214 · **Commits**: 2489
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 100 | 29 | 7 | 4 | 105 |
-| last60d | 2026-09-07 | 2 | 157 | 33 | 17 | 5 | 168 |
-| 90d | 2026-08-08 | 2 | 179 | 36 | 26 | 6 | 186 |
-| last180d | 2026-05-10 | 4 | 285 | 40 | 45 | 8 | 284 |
-| 360d | 2025-11-11 | 9 | 417 | 40 | 81 | 9 | 415 |
-| last720d | 2024-11-16 | 12 | 563 | 40 | 182 | 15 | 561 |
+| 30d | 2026-10-08 | 1 | 97 | 31 | 7 | 4 | 105 |
+| last60d | 2026-09-08 | 2 | 157 | 35 | 17 | 5 | 168 |
+| 90d | 2026-08-09 | 2 | 179 | 38 | 26 | 6 | 186 |
+| last180d | 2026-05-11 | 4 | 284 | 42 | 45 | 8 | 284 |
+| 360d | 2025-11-12 | 9 | 417 | 42 | 81 | 9 | 415 |
+| last720d | 2024-11-17 | 12 | 563 | 42 | 182 | 15 | 561 |
 
 ## Release assets
 
@@ -77,7 +77,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **165** distros on [repology.org](https://repology.org/project/black). **27** are ✅ on the latest upstream release, **127** are ⚠️ on an older version.
+Reported by **167** distros on [repology.org](https://repology.org/project/black). **29** are ✅ on the latest upstream release, **127** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -87,7 +87,7 @@ Reported by **165** distros on [repology.org](https://repology.org/project/black
 | Ubuntu 26.04 LTS | `26.3.1` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `24.2.0` | ⚠️ outdated |
 | Arch | `26.10.1` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `26.10.1` | ✅ latest |
 | Fedora rawhide | `26.5.1` | ⚠️ outdated |
 | Nix unstable | `26.5.1` | ⚠️ outdated |
 | Void | `26.5.1` | ⚠️ outdated |
@@ -103,4 +103,4 @@ Install metadata for black lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:40:04Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:59:40Z._
