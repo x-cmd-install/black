@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 42,127 · **Forks**: 2,973 · **Open issues**: 2,841 · **Contributors**: 603
+- **Stars**: 42,149 · **Forks**: 2,980 · **Open issues**: 2,841 · **Contributors**: 603
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 2070 · **Open PRs**: 46 · **Closed issues**: 2627 · **Open issues**: 214 · **Commits**: 2489
+- **Releases**: 57 · **Merged PRs**: 2070 · **Open PRs**: 58 · **Closed issues**: 2627 · **Open issues**: 214 · **Commits**: 2489
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 1 | 92 | 34 | 7 | 4 | 105 |
-| last60d | 2026-09-09 | 2 | 157 | 39 | 17 | 5 | 168 |
-| 90d | 2026-08-10 | 2 | 179 | 42 | 26 | 6 | 186 |
-| last180d | 2026-05-12 | 4 | 284 | 46 | 45 | 8 | 284 |
-| 360d | 2025-11-13 | 9 | 417 | 46 | 81 | 9 | 415 |
-| last720d | 2024-11-18 | 12 | 563 | 46 | 182 | 15 | 561 |
+| 30d | 2026-10-11 | 0 | 83 | 44 | 5 | 4 | 93 |
+| last60d | 2026-09-11 | 2 | 155 | 51 | 17 | 5 | 167 |
+| 90d | 2026-08-12 | 2 | 178 | 53 | 23 | 6 | 186 |
+| last180d | 2026-05-14 | 4 | 282 | 58 | 45 | 8 | 273 |
+| 360d | 2025-11-15 | 9 | 417 | 58 | 80 | 9 | 414 |
+| last720d | 2024-11-20 | 12 | 563 | 58 | 180 | 15 | 561 |
 
 ## Release assets
 
@@ -77,7 +77,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **167** distros on [repology.org](https://repology.org/project/black). **29** are ✅ on the latest upstream release, **127** are ⚠️ on an older version.
+Reported by **167** distros on [repology.org](https://repology.org/project/black). **32** are ✅ on the latest upstream release, **124** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -92,7 +92,7 @@ Reported by **167** distros on [repology.org](https://repology.org/project/black
 | Nix unstable | `26.5.1` | ⚠️ outdated |
 | Void | `26.5.1` | ⚠️ outdated |
 | Alpine edge | `26.10.1` | ✅ latest |
-| openSUSE Tumbleweed | `26.5.1` | ⚠️ outdated |
+| openSUSE Tumbleweed | `26.10.1` | ✅ latest |
 
 ## Improve this data
 
@@ -103,4 +103,4 @@ Install metadata for black lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:07:46Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:20:13Z._
