@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `26.10.1` (2026-10-10)
-- **Last commit**: 2026-11-14
+- **Last commit**: 2026-11-16
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 42,182 · **Forks**: 2,996 · **Open issues**: 2,845 · **Contributors**: 618
+- **Stars**: 42,187 · **Forks**: 3,033 · **Open issues**: 2,845 · **Contributors**: 619
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 2093 · **Open PRs**: 38 · **Closed issues**: 2633 · **Open issues**: 212 · **Commits**: 2513
+- **Releases**: 57 · **Merged PRs**: 2094 · **Open PRs**: 39 · **Closed issues**: 2634 · **Open issues**: 211 · **Commits**: 2514
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 93 | 19 | 4 | 4 | 117 |
-| last60d | 2026-09-16 | 2 | 173 | 31 | 18 | 6 | 191 |
-| 90d | 2026-08-17 | 2 | 197 | 33 | 26 | 7 | 210 |
-| last180d | 2026-05-19 | 2 | 296 | 38 | 46 | 9 | 297 |
-| 360d | 2025-11-20 | 9 | 438 | 38 | 83 | 9 | 438 |
-| last720d | 2024-11-25 | 12 | 584 | 38 | 183 | 14 | 585 |
+| 30d | 2026-10-17 | 0 | 87 | 20 | 5 | 3 | 87 |
+| last60d | 2026-09-17 | 2 | 171 | 32 | 19 | 5 | 179 |
+| 90d | 2026-08-18 | 2 | 198 | 34 | 27 | 6 | 200 |
+| last180d | 2026-05-20 | 2 | 296 | 39 | 47 | 8 | 291 |
+| 360d | 2025-11-21 | 9 | 436 | 39 | 84 | 8 | 430 |
+| last720d | 2024-11-26 | 12 | 585 | 39 | 183 | 13 | 585 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for black lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:33:13Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T06:49:43Z._
