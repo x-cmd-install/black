@@ -14,11 +14,11 @@ x install black
 
 ## Code insight
 
-Total: **130,215** lines of code across **448** files in the top 5 languages.
+Total: **130,524** lines of code across **452** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 129,191 | 5,122 | 9,279 | 428 |
+| Python | 129,500 | 5,129 | 9,330 | 432 |
 | VimScript | 370 | 8 | 20 | 2 |
 | Toml | 241 | 35 | 36 | 16 |
 | Json | 184 | 0 | 0 | 1 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 42,187 · **Forks**: 3,033 · **Open issues**: 2,845 · **Contributors**: 619
+- **Stars**: 42,192 · **Forks**: 3,059 · **Open issues**: 2,846 · **Contributors**: 621
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 2094 · **Open PRs**: 39 · **Closed issues**: 2634 · **Open issues**: 211 · **Commits**: 2514
+- **Releases**: 57 · **Merged PRs**: 2096 · **Open PRs**: 41 · **Closed issues**: 2635 · **Open issues**: 211 · **Commits**: 2515
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 87 | 20 | 5 | 3 | 87 |
-| last60d | 2026-09-17 | 2 | 171 | 32 | 19 | 5 | 179 |
-| 90d | 2026-08-18 | 2 | 198 | 34 | 27 | 6 | 200 |
-| last180d | 2026-05-20 | 2 | 296 | 39 | 47 | 8 | 291 |
-| 360d | 2025-11-21 | 9 | 436 | 39 | 84 | 8 | 430 |
-| last720d | 2024-11-26 | 12 | 585 | 39 | 183 | 13 | 585 |
+| 30d | 2026-10-18 | 0 | 87 | 22 | 5 | 4 | 88 |
+| last60d | 2026-09-18 | 2 | 171 | 34 | 19 | 6 | 180 |
+| 90d | 2026-08-19 | 2 | 196 | 36 | 26 | 7 | 201 |
+| last180d | 2026-05-21 | 2 | 294 | 41 | 47 | 9 | 292 |
+| 360d | 2025-11-22 | 9 | 437 | 41 | 84 | 9 | 431 |
+| last720d | 2024-11-27 | 12 | 587 | 41 | 183 | 14 | 585 |
 
 ## Release assets
 
@@ -77,7 +77,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **167** distros on [repology.org](https://repology.org/project/black). **33** are ✅ on the latest upstream release, **123** are ⚠️ on an older version.
+Reported by **168** distros on [repology.org](https://repology.org/project/black). **33** are ✅ on the latest upstream release, **124** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -103,4 +103,4 @@ Install metadata for black lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:49:43Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:09:08Z._
