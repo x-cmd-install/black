@@ -14,11 +14,11 @@ x install black
 
 ## 代码洞察
 
-合计: **130,524** 行代码（覆盖前 5 种语言、共 **452** 个文件）。
+合计: **130,553** 行代码（覆盖前 5 种语言、共 **454** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 129,500 | 5,129 | 9,330 | 432 |
+| Python | 129,529 | 5,139 | 9,354 | 434 |
 | VimScript | 370 | 8 | 20 | 2 |
 | Toml | 241 | 35 | 36 | 16 |
 | Json | 184 | 0 | 0 | 1 |
@@ -26,13 +26,13 @@ x install black
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7.5 / 10**
+总评分: **7.6 / 10**
 
 评分最低的几项:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install black
 ## 发布
 
 - **最新版本**: `26.10.1` (2026-10-10)
-- **最近提交**: 2026-11-16
+- **最近提交**: 2026-11-17
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 42,192 · **Fork**: 3,059 · **开放 issue**: 2,846 · **贡献者**: 621
+- **Star**: 42,193 · **Fork**: 3,083 · **开放 issue**: 2,847 · **贡献者**: 621
 
 ## 累计统计
 
-- **发布数**: 57 · **已合并 PR**: 2096 · **开放 PR**: 41 · **已关闭 issue**: 2635 · **开放 issue**: 211 · **提交数**: 2515
+- **发布数**: 57 · **已合并 PR**: 2096 · **开放 PR**: 48 · **已关闭 issue**: 2637 · **开放 issue**: 210 · **提交数**: 2516
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 87 | 22 | 5 | 4 | 88 |
-| last60d | 2026-09-18 | 2 | 171 | 34 | 19 | 6 | 180 |
-| 90d | 2026-08-19 | 2 | 196 | 36 | 26 | 7 | 201 |
-| last180d | 2026-05-21 | 2 | 294 | 41 | 47 | 9 | 292 |
-| 360d | 2025-11-22 | 9 | 437 | 41 | 84 | 9 | 431 |
-| last720d | 2024-11-27 | 12 | 587 | 41 | 183 | 14 | 585 |
+| 30d | 2026-10-20 | 0 | 83 | 27 | 5 | 4 | 89 |
+| last60d | 2026-09-20 | 2 | 170 | 41 | 20 | 6 | 181 |
+| 90d | 2026-08-21 | 2 | 193 | 42 | 26 | 7 | 202 |
+| last180d | 2026-05-23 | 2 | 293 | 47 | 48 | 9 | 293 |
+| 360d | 2025-11-24 | 9 | 434 | 48 | 85 | 9 | 432 |
+| last720d | 2024-11-29 | 12 | 587 | 48 | 184 | 14 | 585 |
 
 ## Release 资产
 
@@ -77,7 +77,7 @@ x install black
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/black) 上共有 **168** 个发行版报告此项目。**33** 个 ✅ 已是最新上游版本，**124** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/black) 上共有 **167** 个发行版报告此项目。**33** 个 ✅ 已是最新上游版本，**123** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -103,4 +103,4 @@ black 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T09:09:09Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T08:03:36Z._
