@@ -14,14 +14,14 @@ x install black
 
 ## Code insight
 
-Total: **130,553** lines of code across **454** files in the top 5 languages.
+Total: **130,982** lines of code across **456** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 129,529 | 5,139 | 9,354 | 434 |
+| Python | 129,977 | 5,235 | 9,409 | 438 |
 | VimScript | 370 | 8 | 20 | 2 |
-| Toml | 241 | 35 | 36 | 16 |
-| Json | 184 | 0 | 0 | 1 |
+| Toml | 237 | 35 | 36 | 14 |
+| Json | 186 | 0 | 0 | 1 |
 | Yaml | 91 | 5 | 5 | 1 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `26.10.1` (2026-10-10)
-- **Last commit**: 2026-11-17
+- **Last commit**: 2026-11-20
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 42,193 · **Forks**: 3,083 · **Open issues**: 2,847 · **Contributors**: 621
+- **Stars**: 42,196 · **Forks**: 3,085 · **Open issues**: 2,847 · **Contributors**: 625
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 2096 · **Open PRs**: 48 · **Closed issues**: 2637 · **Open issues**: 210 · **Commits**: 2516
+- **Releases**: 57 · **Merged PRs**: 2104 · **Open PRs**: 41 · **Closed issues**: 2641 · **Open issues**: 206 · **Commits**: 2525
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 83 | 27 | 5 | 4 | 89 |
-| last60d | 2026-09-20 | 2 | 170 | 41 | 20 | 6 | 181 |
-| 90d | 2026-08-21 | 2 | 193 | 42 | 26 | 7 | 202 |
-| last180d | 2026-05-23 | 2 | 293 | 47 | 48 | 9 | 293 |
-| 360d | 2025-11-24 | 9 | 434 | 48 | 85 | 9 | 432 |
-| last720d | 2024-11-29 | 12 | 587 | 48 | 184 | 14 | 585 |
+| 30d | 2026-10-21 | 0 | 87 | 20 | 5 | 4 | 98 |
+| last60d | 2026-09-21 | 2 | 177 | 35 | 20 | 6 | 190 |
+| 90d | 2026-08-22 | 2 | 201 | 36 | 26 | 7 | 211 |
+| last180d | 2026-05-24 | 2 | 301 | 40 | 49 | 8 | 302 |
+| 360d | 2025-11-25 | 9 | 441 | 41 | 86 | 8 | 441 |
+| last720d | 2024-11-30 | 12 | 595 | 41 | 185 | 13 | 594 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for black lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:03:35Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:38:17Z._
