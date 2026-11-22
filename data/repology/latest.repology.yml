@@ -1,3 +1,66 @@
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: black
+  binnames:
+    - black
+    - python-black-doc
+  visiblename: black
+  version: 20.8b1
+  origversion: 20.8b1-4
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - codehelp@debian.org
+    - sylvestre@debian.org
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: black
+  binnames:
+    - black
+    - python-black-doc
+  visiblename: black
+  version: 26.10.1
+  origversion: 26.10.1-1
+  status: newest
+  maintainers:
+    - team+python@tracker.debian.org
+    - lamby@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: black
+  binnames:
+    - black
+    - python-black-doc
+  visiblename: black
+  version: 25.1.0
+  origversion: 25.1.0-3+deb13u1
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - lamby@debian.org
+    - sylvestre@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: black
+  binnames:
+    - black
+    - python-black-doc
+  visiblename: black
+  version: 25.1.0
+  origversion: 25.1.0-3+deb13u1
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - lamby@debian.org
+    - sylvestre@debian.org
+  categories:
+    - misc
 - repo: alpine_3_17
   subrepo: community
   srcname: black
@@ -284,21 +347,6 @@
     - michal@polanski.me
   licenses:
     - MIT
-- repo: apertis_v2024
-  subrepo: v2024/development
-  srcname: black
-  binnames:
-    - black
-    - python-black-doc
-  visiblename: black
-  version: 23.1.0
-  origversion: 23.1.0-1+apertis0
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - codehelp@debian.org
-    - lamby@debian.org
-    - sylvestre@debian.org
 - repo: alpine_3_22
   subrepo: community
   srcname: black
@@ -338,6 +386,20 @@
     - michal@polanski.me
   licenses:
     - MIT
+- repo: nix_stable_25_05
+  srcname: python312Packages.black
+  visiblename: python3.12-black
+  version: 25.1.0
+  origversion: null
+  status: outdated
+  summary: Uncompromising Python code formatter
+  maintainers:
+    - sveitser@gmail.com
+    - mail@autophagy.io
+  licenses:
+    - MIT
+  categories:
+    - python312Packages
 - repo: alpine_3_22
   subrepo: community
   srcname: black
@@ -429,21 +491,6 @@
     - michal@polanski.me
   licenses:
     - MIT
-- repo: apertis_v2025
-  subrepo: v2025/development
-  srcname: black
-  binnames:
-    - black
-    - python-black-doc
-  visiblename: black
-  version: 23.1.0
-  origversion: 23.1.0-1+apertis0
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - codehelp@debian.org
-    - lamby@debian.org
-    - sylvestre@debian.org
 - repo: alpine_3_24
   subrepo: community
   srcname: black
@@ -483,6 +530,20 @@
     - michal@polanski.me
   licenses:
     - MIT
+- repo: nix_stable_25_05
+  srcname: python313Packages.black
+  visiblename: python3.13-black
+  version: 25.1.0
+  origversion: null
+  status: outdated
+  summary: Uncompromising Python code formatter
+  maintainers:
+    - sveitser@gmail.com
+    - mail@autophagy.io
+  licenses:
+    - MIT
+  categories:
+    - python313Packages
 - repo: alpine_3_24
   subrepo: community
   srcname: black
@@ -592,6 +653,36 @@
     - MIT
   categories:
     - Development/Python3
+- repo: apertis_v2024
+  subrepo: v2024/development
+  srcname: black
+  binnames:
+    - black
+    - python-black-doc
+  visiblename: black
+  version: 23.1.0
+  origversion: 23.1.0-1+apertis0
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - codehelp@debian.org
+    - lamby@debian.org
+    - sylvestre@debian.org
+- repo: apertis_v2025
+  subrepo: v2025/development
+  srcname: black
+  binnames:
+    - black
+    - python-black-doc
+  visiblename: black
+  version: 23.1.0
+  origversion: 23.1.0-1+apertis0
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - codehelp@debian.org
+    - lamby@debian.org
+    - sylvestre@debian.org
 - repo: apertis_v2026
   subrepo: v2026/development
   srcname: black
@@ -761,20 +852,6 @@
     - lamby@debian.org
   categories:
     - misc
-- repo: pureos_amber
-  subrepo: amber/main
-  srcname: black
-  binnames:
-    - black
-    - python-black-doc
-  visiblename: black
-  version: 18.9b0-1
-  origversion: 18.9b0-1-6
-  status: outdated
-  maintainers:
-    - codehelp@debian.org
-  categories:
-    - python
 - repo: debian_unstable
   subrepo: sid/main
   srcname: black
@@ -823,37 +900,6 @@
     - sylvestre@debian.org
   categories:
     - misc
-- repo: devuan_4_0
-  subrepo: chimaera/main
-  srcname: black
-  binnames:
-    - black
-    - python-black-doc
-  visiblename: black
-  version: 20.8b1
-  origversion: 20.8b1-4
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - codehelp@debian.org
-    - sylvestre@debian.org
-  categories:
-    - misc
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: black
-  binnames:
-    - black
-    - python-black-doc
-  visiblename: black
-  version: 26.10.1
-  origversion: 26.10.1-1
-  status: newest
-  maintainers:
-    - team+python@tracker.debian.org
-    - lamby@debian.org
-  categories:
-    - misc
 - repo: fedora_39
   subrepo: updates
   srcname: python-black
@@ -872,18 +918,6 @@
     - MIT
   categories:
     - Unspecified
-- repo: openbsd
-  srcname: textproc/py-black
-  binname: py3-black
-  visiblename: textproc/py-black
-  version: 26.1.0
-  origversion: 26.1.0p0
-  status: outdated
-  summary: Python code formatter
-  maintainers:
-    - ports@openbsd.org
-  categories:
-    - textproc
 - repo: fedora_39
   subrepo: release
   srcname: python-black
@@ -1149,22 +1183,6 @@
     - lamby@debian.org
   categories:
     - misc
-- repo: pureos_byzantium
-  subrepo: byzantium/main
-  srcname: black
-  binnames:
-    - black
-    - python-black-doc
-  visiblename: black
-  version: 20.8b1
-  origversion: 20.8b1-4
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - codehelp@debian.org
-    - sylvestre@debian.org
-  categories:
-    - python
 - repo: liguros_stable
   srcname: dev-python/black
   visiblename: dev-python/black
@@ -1293,22 +1311,6 @@
     - danchr@github
   licenses:
     - MIT
-  categories:
-    - python
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: black
-  binnames:
-    - black
-    - python-black-doc
-  visiblename: black
-  version: 25.1.0
-  origversion: 25.1.0-3+deb13u1
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - lamby@debian.org
-    - sylvestre@debian.org
   categories:
     - python
 - repo: macports
@@ -1461,6 +1463,216 @@
     - MIT
   categories:
     - python312Packages
+- repo: nix_stable_24_05
+  srcname: python311Packages.black
+  visiblename: python3.11-black
+  version: 24.4.0
+  origversion: null
+  status: outdated
+  summary: The uncompromising Python code formatter
+  maintainers:
+    - sveitser@gmail.com
+    - mail@autophagy.io
+  licenses:
+    - MIT
+  categories:
+    - python311Packages
+- repo: nix_stable_24_05
+  srcname: black
+  visiblename: black
+  version: 24.4.0
+  origversion: null
+  status: outdated
+  summary: The uncompromising Python code formatter
+  maintainers:
+    - sveitser@gmail.com
+    - mail@autophagy.io
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: black
+  visiblename: black
+  version: 24.8.0
+  origversion: null
+  status: outdated
+  summary: Uncompromising Python code formatter
+  maintainers:
+    - sveitser@gmail.com
+    - mail@autophagy.io
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: python312Packages.black
+  visiblename: python3.12-black
+  version: 24.8.0
+  origversion: null
+  status: outdated
+  summary: Uncompromising Python code formatter
+  maintainers:
+    - sveitser@gmail.com
+    - mail@autophagy.io
+  licenses:
+    - MIT
+  categories:
+    - python312Packages
+- repo: nix_stable_24_11
+  srcname: python311Packages.black
+  visiblename: python3.11-black
+  version: 24.8.0
+  origversion: null
+  status: outdated
+  summary: Uncompromising Python code formatter
+  maintainers:
+    - sveitser@gmail.com
+    - mail@autophagy.io
+  licenses:
+    - MIT
+  categories:
+    - python311Packages
+- repo: nix_stable_25_05
+  srcname: black
+  visiblename: black
+  version: 25.1.0
+  origversion: null
+  status: outdated
+  summary: Uncompromising Python code formatter
+  maintainers:
+    - sveitser@gmail.com
+    - mail@autophagy.io
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: python312Packages.black
+  visiblename: python3.12-black
+  version: 25.1.0
+  origversion: null
+  status: outdated
+  summary: Uncompromising Python code formatter
+  maintainers:
+    - sveitser@gmail.com
+    - mail@autophagy.io
+  licenses:
+    - MIT
+  categories:
+    - python312Packages
+- repo: nix_stable_25_11
+  srcname: python313Packages.black
+  visiblename: python3.13-black
+  version: 25.1.0
+  origversion: null
+  status: outdated
+  summary: Uncompromising Python code formatter
+  maintainers:
+    - sveitser@gmail.com
+    - mail@autophagy.io
+  licenses:
+    - MIT
+  categories:
+    - python313Packages
+- repo: nix_stable_25_11
+  srcname: black
+  visiblename: black
+  version: 25.1.0
+  origversion: null
+  status: outdated
+  summary: Uncompromising Python code formatter
+  maintainers:
+    - sveitser@gmail.com
+    - mail@autophagy.io
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: black
+  visiblename: black
+  version: 25.1.0
+  origversion: null
+  status: outdated
+  summary: Uncompromising Python code formatter
+  maintainers:
+    - sveitser@gmail.com
+    - mail@autophagy.io
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: python314Packages.black
+  visiblename: black
+  version: 25.1.0
+  origversion: null
+  status: outdated
+  summary: Uncompromising Python code formatter
+  maintainers:
+    - sveitser@gmail.com
+    - mail@autophagy.io
+  licenses:
+    - MIT
+  categories:
+    - python314Packages
+- repo: nix_stable_26_05
+  srcname: python313Packages.black
+  visiblename: black
+  version: 25.1.0
+  origversion: null
+  status: outdated
+  summary: Uncompromising Python code formatter
+  maintainers:
+    - sveitser@gmail.com
+    - mail@autophagy.io
+  licenses:
+    - MIT
+  categories:
+    - python313Packages
+- repo: nix_unstable
+  srcname: black
+  visiblename: black
+  version: 26.5.1
+  origversion: null
+  status: outdated
+  summary: Uncompromising Python code formatter
+  maintainers:
+    - sveitser@gmail.com
+    - mail@autophagy.io
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: python314Packages.black
+  visiblename: black
+  version: 26.5.1
+  origversion: null
+  status: outdated
+  summary: Uncompromising Python code formatter
+  maintainers:
+    - sveitser@gmail.com
+    - mail@autophagy.io
+  licenses:
+    - MIT
+  categories:
+    - python314Packages
+- repo: nix_unstable
+  srcname: python313Packages.black
+  visiblename: black
+  version: 26.5.1
+  origversion: null
+  status: outdated
+  summary: Uncompromising Python code formatter
+  maintainers:
+    - sveitser@gmail.com
+    - mail@autophagy.io
+  licenses:
+    - MIT
+  categories:
+    - python313Packages
+- repo: openbsd
+  srcname: textproc/py-black
+  binname: py3-black
+  visiblename: textproc/py-black
+  version: 26.1.0
+  origversion: 26.1.0p0
+  status: outdated
+  summary: Python code formatter
+  maintainers:
+    - ports@openbsd.org
+  categories:
+    - textproc
 - repo: openeuler_24_03_lts
   srcname: python-black
   binnames:
@@ -1474,273 +1686,22 @@
     - MIT
   categories:
     - Unspecified
-- repo: pypi
-  srcname: black
-  binname: black
-  visiblename: black
-  version: 26.10.1
-  origversion: null
-  status: newest
-  summary: The uncompromising code formatter.
-- repo: raspbian_oldstable
+- repo: pardus_21
   subrepo: main
   srcname: black
   binnames:
     - black
     - python-black-doc
   visiblename: black
-  version: 23.1.0
-  origversion: 23.1.0-1
+  version: 20.8b1
+  origversion: 20.8b1-4
   status: outdated
   maintainers:
     - team+python@tracker.debian.org
     - codehelp@debian.org
-    - lamby@debian.org
     - sylvestre@debian.org
   categories:
     - misc
-- repo: nix_stable_24_05
-  srcname: python311Packages.black
-  visiblename: python3.11-black
-  version: 24.4.0
-  origversion: null
-  status: outdated
-  summary: The uncompromising Python code formatter
-  maintainers:
-    - sveitser@gmail.com
-    - mail@autophagy.io
-  licenses:
-    - MIT
-  categories:
-    - python311Packages
-- repo: nix_stable_24_05
-  srcname: black
-  visiblename: black
-  version: 24.4.0
-  origversion: null
-  status: outdated
-  summary: The uncompromising Python code formatter
-  maintainers:
-    - sveitser@gmail.com
-    - mail@autophagy.io
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: black
-  visiblename: black
-  version: 24.8.0
-  origversion: null
-  status: outdated
-  summary: Uncompromising Python code formatter
-  maintainers:
-    - sveitser@gmail.com
-    - mail@autophagy.io
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: python312Packages.black
-  visiblename: python3.12-black
-  version: 24.8.0
-  origversion: null
-  status: outdated
-  summary: Uncompromising Python code formatter
-  maintainers:
-    - sveitser@gmail.com
-    - mail@autophagy.io
-  licenses:
-    - MIT
-  categories:
-    - python312Packages
-- repo: nix_stable_24_11
-  srcname: python311Packages.black
-  visiblename: python3.11-black
-  version: 24.8.0
-  origversion: null
-  status: outdated
-  summary: Uncompromising Python code formatter
-  maintainers:
-    - sveitser@gmail.com
-    - mail@autophagy.io
-  licenses:
-    - MIT
-  categories:
-    - python311Packages
-- repo: nix_stable_25_05
-  srcname: python312Packages.black
-  visiblename: python3.12-black
-  version: 25.1.0
-  origversion: null
-  status: outdated
-  summary: Uncompromising Python code formatter
-  maintainers:
-    - sveitser@gmail.com
-    - mail@autophagy.io
-  licenses:
-    - MIT
-  categories:
-    - python312Packages
-- repo: nix_stable_25_05
-  srcname: python313Packages.black
-  visiblename: python3.13-black
-  version: 25.1.0
-  origversion: null
-  status: outdated
-  summary: Uncompromising Python code formatter
-  maintainers:
-    - sveitser@gmail.com
-    - mail@autophagy.io
-  licenses:
-    - MIT
-  categories:
-    - python313Packages
-- repo: nix_stable_25_05
-  srcname: black
-  visiblename: black
-  version: 25.1.0
-  origversion: null
-  status: outdated
-  summary: Uncompromising Python code formatter
-  maintainers:
-    - sveitser@gmail.com
-    - mail@autophagy.io
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: python312Packages.black
-  visiblename: python3.12-black
-  version: 25.1.0
-  origversion: null
-  status: outdated
-  summary: Uncompromising Python code formatter
-  maintainers:
-    - sveitser@gmail.com
-    - mail@autophagy.io
-  licenses:
-    - MIT
-  categories:
-    - python312Packages
-- repo: nix_stable_25_11
-  srcname: python313Packages.black
-  visiblename: python3.13-black
-  version: 25.1.0
-  origversion: null
-  status: outdated
-  summary: Uncompromising Python code formatter
-  maintainers:
-    - sveitser@gmail.com
-    - mail@autophagy.io
-  licenses:
-    - MIT
-  categories:
-    - python313Packages
-- repo: nix_stable_25_11
-  srcname: black
-  visiblename: black
-  version: 25.1.0
-  origversion: null
-  status: outdated
-  summary: Uncompromising Python code formatter
-  maintainers:
-    - sveitser@gmail.com
-    - mail@autophagy.io
-  licenses:
-    - MIT
-- repo: nix_stable_26_05
-  srcname: black
-  visiblename: black
-  version: 25.1.0
-  origversion: null
-  status: outdated
-  summary: Uncompromising Python code formatter
-  maintainers:
-    - sveitser@gmail.com
-    - mail@autophagy.io
-  licenses:
-    - MIT
-- repo: nix_stable_26_05
-  srcname: python314Packages.black
-  visiblename: black
-  version: 25.1.0
-  origversion: null
-  status: outdated
-  summary: Uncompromising Python code formatter
-  maintainers:
-    - sveitser@gmail.com
-    - mail@autophagy.io
-  licenses:
-    - MIT
-  categories:
-    - python314Packages
-- repo: raspbian_stable
-  subrepo: main
-  srcname: black
-  binnames:
-    - black
-    - python-black-doc
-  visiblename: black
-  version: 25.1.0
-  origversion: 25.1.0-3+deb13u1
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - lamby@debian.org
-    - sylvestre@debian.org
-  categories:
-    - misc
-- repo: nix_stable_26_05
-  srcname: python313Packages.black
-  visiblename: black
-  version: 25.1.0
-  origversion: null
-  status: outdated
-  summary: Uncompromising Python code formatter
-  maintainers:
-    - sveitser@gmail.com
-    - mail@autophagy.io
-  licenses:
-    - MIT
-  categories:
-    - python313Packages
-- repo: nix_unstable
-  srcname: black
-  visiblename: black
-  version: 26.5.1
-  origversion: null
-  status: outdated
-  summary: Uncompromising Python code formatter
-  maintainers:
-    - sveitser@gmail.com
-    - mail@autophagy.io
-  licenses:
-    - MIT
-- repo: nix_unstable
-  srcname: python314Packages.black
-  visiblename: black
-  version: 26.5.1
-  origversion: null
-  status: outdated
-  summary: Uncompromising Python code formatter
-  maintainers:
-    - sveitser@gmail.com
-    - mail@autophagy.io
-  licenses:
-    - MIT
-  categories:
-    - python314Packages
-- repo: nix_unstable
-  srcname: python313Packages.black
-  visiblename: black
-  version: 26.5.1
-  origversion: null
-  status: outdated
-  summary: Uncompromising Python code formatter
-  maintainers:
-    - sveitser@gmail.com
-    - mail@autophagy.io
-  licenses:
-    - MIT
-  categories:
-    - python313Packages
 - repo: openeuler_24_03_lts_sp1
   srcname: python-black
   binnames:
@@ -1818,21 +1779,6 @@
     - MIT
   categories:
     - System/Libraries
-- repo: raspbian_testing
-  subrepo: main
-  srcname: black
-  binnames:
-    - black
-    - python-black-doc
-  visiblename: black
-  version: 26.10.1
-  origversion: 26.10.1-1
-  status: newest
-  maintainers:
-    - team+python@tracker.debian.org
-    - lamby@debian.org
-  categories:
-    - misc
 - repo: openmandriva_6_0
   subrepo: main/release
   srcname: python-black
@@ -1943,54 +1889,6 @@
   summary: Uncompromising Python code formatter
   licenses:
     - MIT
-- repo: pardus_21
-  subrepo: main
-  srcname: black
-  binnames:
-    - black
-    - python-black-doc
-  visiblename: black
-  version: 20.8b1
-  origversion: 20.8b1-4
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - codehelp@debian.org
-    - sylvestre@debian.org
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot/main
-  srcname: black
-  binnames:
-    - black
-    - python-black-doc
-  visiblename: black
-  version: 25.1.0
-  origversion: 25.1.0-3+deb13u1
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - lamby@debian.org
-    - sylvestre@debian.org
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: black
-  binnames:
-    - black
-    - python-black-doc
-  visiblename: black
-  version: 25.1.0
-  origversion: 25.1.0-3+deb13u1
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - lamby@debian.org
-    - sylvestre@debian.org
-  categories:
-    - misc
 - repo: pkgsrc_2026_2
   srcname: textproc/py-black
   binname: py313-black
@@ -2030,9 +1928,111 @@
 - repo: pld
   srcname: python3-black
   visiblename: python3-black
-  version: 26.3.0
-  origversion: 26.3.0-1
+  version: 26.10.1
+  origversion: 26.10.1-1
+  status: newest
+- repo: pureos_amber
+  subrepo: amber/main
+  srcname: black
+  binnames:
+    - black
+    - python-black-doc
+  visiblename: black
+  version: 18.9b0-1
+  origversion: 18.9b0-1-6
   status: outdated
+  maintainers:
+    - codehelp@debian.org
+  categories:
+    - python
+- repo: pureos_byzantium
+  subrepo: byzantium/main
+  srcname: black
+  binnames:
+    - black
+    - python-black-doc
+  visiblename: black
+  version: 20.8b1
+  origversion: 20.8b1-4
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - codehelp@debian.org
+    - sylvestre@debian.org
+  categories:
+    - python
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: black
+  binnames:
+    - black
+    - python-black-doc
+  visiblename: black
+  version: 25.1.0
+  origversion: 25.1.0-3+deb13u1
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - lamby@debian.org
+    - sylvestre@debian.org
+  categories:
+    - python
+- repo: pypi
+  srcname: black
+  binname: black
+  visiblename: black
+  version: 26.10.1
+  origversion: null
+  status: newest
+  summary: The uncompromising code formatter.
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: black
+  binnames:
+    - black
+    - python-black-doc
+  visiblename: black
+  version: 23.1.0
+  origversion: 23.1.0-1
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - codehelp@debian.org
+    - lamby@debian.org
+    - sylvestre@debian.org
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: black
+  binnames:
+    - black
+    - python-black-doc
+  visiblename: black
+  version: 25.1.0
+  origversion: 25.1.0-3+deb13u1
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - lamby@debian.org
+    - sylvestre@debian.org
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: black
+  binnames:
+    - black
+    - python-black-doc
+  visiblename: black
+  version: 26.10.1
+  origversion: 26.10.1-1
+  status: newest
+  maintainers:
+    - team+python@tracker.debian.org
+    - lamby@debian.org
+  categories:
+    - misc
 - repo: ravenports
   srcname: python-black
   binname: python-black
