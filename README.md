@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 42,201 · **Forks**: 3,091 · **Open issues**: 2,848 · **Contributors**: 625
+- **Stars**: 42,206 · **Forks**: 3,094 · **Open issues**: 2,848 · **Contributors**: 625
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 2104 · **Open PRs**: 46 · **Closed issues**: 2641 · **Open issues**: 207 · **Commits**: 2525
+- **Releases**: 57 · **Merged PRs**: 2104 · **Open PRs**: 52 · **Closed issues**: 2641 · **Open issues**: 207 · **Commits**: 2525
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 80 | 23 | 5 | 5 | 98 |
-| last60d | 2026-09-22 | 2 | 174 | 40 | 19 | 7 | 190 |
-| 90d | 2026-08-23 | 2 | 201 | 41 | 26 | 8 | 211 |
-| last180d | 2026-05-25 | 2 | 300 | 45 | 49 | 9 | 302 |
-| 360d | 2025-11-26 | 9 | 440 | 46 | 86 | 9 | 441 |
-| last720d | 2024-12-01 | 12 | 594 | 46 | 185 | 14 | 594 |
+| 30d | 2026-10-23 | 0 | 74 | 29 | 5 | 5 | 98 |
+| last60d | 2026-09-23 | 2 | 171 | 46 | 19 | 7 | 190 |
+| 90d | 2026-08-24 | 2 | 200 | 47 | 26 | 8 | 211 |
+| last180d | 2026-05-26 | 2 | 300 | 51 | 49 | 9 | 302 |
+| 360d | 2025-11-27 | 9 | 439 | 52 | 85 | 9 | 441 |
+| last720d | 2024-12-02 | 12 | 594 | 52 | 185 | 14 | 594 |
 
 ## Release assets
 
@@ -77,7 +77,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **167** distros on [repology.org](https://repology.org/project/black). **40** are ✅ on the latest upstream release, **116** are ⚠️ on an older version.
+Reported by **167** distros on [repology.org](https://repology.org/project/black). **41** are ✅ on the latest upstream release, **115** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -103,4 +103,4 @@ Install metadata for black lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:09:46Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T06:47:14Z._
