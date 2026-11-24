@@ -24,16 +24,6 @@ x install black
 | Json | 186 | 0 | 0 | 1 |
 | Yaml | 91 | 5 | 5 | 1 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **7.6 / 10**
-
-评分最低的几项:
-
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/psf/black>
@@ -48,22 +38,22 @@ x install black
 
 ## 流行度
 
-- **Star**: 42,210 · **Fork**: 3,095 · **开放 issue**: 2,848 · **贡献者**: 625
+- **Star**: 42,211 · **Fork**: 3,096 · **开放 issue**: 2,849 · **贡献者**: 625
 
 ## 累计统计
 
-- **发布数**: 57 · **已合并 PR**: 2104 · **开放 PR**: 56 · **已关闭 issue**: 2641 · **开放 issue**: 207 · **提交数**: 2525
+- **发布数**: 57 · **已合并 PR**: 2104 · **开放 PR**: 58 · **已关闭 issue**: 2641 · **开放 issue**: 208 · **提交数**: 2525
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 69 | 33 | 5 | 5 | 55 |
-| last60d | 2026-09-24 | 2 | 167 | 50 | 19 | 7 | 178 |
-| 90d | 2026-08-25 | 2 | 200 | 51 | 26 | 8 | 211 |
-| last180d | 2026-05-27 | 2 | 300 | 55 | 49 | 9 | 296 |
-| 360d | 2025-11-28 | 9 | 438 | 56 | 85 | 9 | 431 |
-| last720d | 2024-12-03 | 12 | 594 | 56 | 185 | 14 | 594 |
+| 30d | 2026-10-25 | 0 | 60 | 35 | 5 | 6 | 55 |
+| last60d | 2026-09-25 | 2 | 165 | 51 | 19 | 8 | 178 |
+| 90d | 2026-08-26 | 2 | 200 | 53 | 26 | 9 | 211 |
+| last180d | 2026-05-28 | 2 | 299 | 57 | 49 | 10 | 296 |
+| 360d | 2025-11-29 | 9 | 437 | 58 | 84 | 10 | 431 |
+| last720d | 2024-12-04 | 12 | 594 | 58 | 183 | 15 | 594 |
 
 ## Release 资产
 
@@ -77,7 +67,7 @@ x install black
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/black) 上共有 **167** 个发行版报告此项目。**41** 个 ✅ 已是最新上游版本，**115** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/black) 上共有 **166** 个发行版报告此项目。**42** 个 ✅ 已是最新上游版本，**113** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -103,4 +93,4 @@ black 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T07:58:49Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T10:05:02Z._

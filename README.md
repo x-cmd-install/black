@@ -24,16 +24,6 @@ Total: **130,982** lines of code across **456** files in the top 5 languages.
 | Json | 186 | 0 | 0 | 1 |
 | Yaml | 91 | 5 | 5 | 1 |
 
-## OpenSSF Scorecard
-
-Overall score: **7.6 / 10**
-
-Lowest-scoring checks:
-
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
-
 ## Source
 
 - **Upstream**: <https://github.com/psf/black>
@@ -48,22 +38,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 42,210 · **Forks**: 3,095 · **Open issues**: 2,848 · **Contributors**: 625
+- **Stars**: 42,211 · **Forks**: 3,096 · **Open issues**: 2,849 · **Contributors**: 625
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 2104 · **Open PRs**: 56 · **Closed issues**: 2641 · **Open issues**: 207 · **Commits**: 2525
+- **Releases**: 57 · **Merged PRs**: 2104 · **Open PRs**: 58 · **Closed issues**: 2641 · **Open issues**: 208 · **Commits**: 2525
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 69 | 33 | 5 | 5 | 55 |
-| last60d | 2026-09-24 | 2 | 167 | 50 | 19 | 7 | 178 |
-| 90d | 2026-08-25 | 2 | 200 | 51 | 26 | 8 | 211 |
-| last180d | 2026-05-27 | 2 | 300 | 55 | 49 | 9 | 296 |
-| 360d | 2025-11-28 | 9 | 438 | 56 | 85 | 9 | 431 |
-| last720d | 2024-12-03 | 12 | 594 | 56 | 185 | 14 | 594 |
+| 30d | 2026-10-25 | 0 | 60 | 35 | 5 | 6 | 55 |
+| last60d | 2026-09-25 | 2 | 165 | 51 | 19 | 8 | 178 |
+| 90d | 2026-08-26 | 2 | 200 | 53 | 26 | 9 | 211 |
+| last180d | 2026-05-28 | 2 | 299 | 57 | 49 | 10 | 296 |
+| 360d | 2025-11-29 | 9 | 437 | 58 | 84 | 10 | 431 |
+| last720d | 2024-12-04 | 12 | 594 | 58 | 183 | 15 | 594 |
 
 ## Release assets
 
@@ -77,7 +67,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **167** distros on [repology.org](https://repology.org/project/black). **41** are ✅ on the latest upstream release, **115** are ⚠️ on an older version.
+Reported by **166** distros on [repology.org](https://repology.org/project/black). **42** are ✅ on the latest upstream release, **113** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -103,4 +93,4 @@ Install metadata for black lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:58:48Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:05:01Z._
