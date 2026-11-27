@@ -24,16 +24,6 @@ Total: **131,019** lines of code across **457** files in the top 5 languages.
 | Json | 186 | 0 | 0 | 1 |
 | Yaml | 91 | 5 | 5 | 1 |
 
-## OpenSSF Scorecard
-
-Overall score: **7.9 / 10**
-
-Lowest-scoring checks:
-
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
-
 ## Source
 
 - **Upstream**: <https://github.com/psf/black>
@@ -48,22 +38,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 42,218 · **Forks**: 3,101 · **Open issues**: 2,849 · **Contributors**: 628
+- **Stars**: 42,218 · **Forks**: 3,117 · **Open issues**: 2,849 · **Contributors**: 628
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 2108 · **Open PRs**: 66 · **Closed issues**: 2641 · **Open issues**: 208 · **Commits**: 2529
+- **Releases**: 57 · **Merged PRs**: 2108 · **Open PRs**: 70 · **Closed issues**: 2641 · **Open issues**: 208 · **Commits**: 2529
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 54 | 43 | 5 | 6 | 0 |
-| last60d | 2026-09-27 | 2 | 165 | 59 | 19 | 8 | 0 |
-| 90d | 2026-08-28 | 2 | 204 | 61 | 26 | 9 | 0 |
-| last180d | 2026-05-30 | 2 | 299 | 65 | 49 | 10 | 0 |
-| 360d | 2025-12-01 | 9 | 440 | 66 | 83 | 10 | 0 |
-| last720d | 2024-12-06 | 12 | 598 | 66 | 183 | 15 | 596 |
+| 30d | 2026-10-28 | 0 | 51 | 47 | 5 | 6 | 59 |
+| last60d | 2026-09-28 | 2 | 162 | 62 | 19 | 8 | 182 |
+| 90d | 2026-08-29 | 2 | 204 | 65 | 26 | 9 | 215 |
+| last180d | 2026-05-31 | 2 | 299 | 69 | 48 | 10 | 300 |
+| 360d | 2025-12-02 | 9 | 440 | 70 | 83 | 10 | 435 |
+| last720d | 2024-12-07 | 12 | 598 | 70 | 183 | 15 | 596 |
 
 ## Release assets
 
@@ -84,4 +74,4 @@ Install metadata for black lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:14:18Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:40:06Z._
