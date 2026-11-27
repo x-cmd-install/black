@@ -1,0 +1,163 @@
+about:
+  description: "The uncompromising Python code formatter"
+  license: MIT
+  homepage: https://black.readthedocs.io/en/stable/
+  head: 1e4ab75
+  archived: false
+  latestVersion: "26.10.1"
+  latestRelease: "26.10.1"
+  latestPrerelease: "26.1a1"
+  collectedAt: 2026-11-27T08:39:42Z
+timeline:
+  created: 2018-03-14
+  lastCommit: 2026-11-25
+  lastVersion: 2026-10-10
+  lastRelease: 2026-10-10
+  lastPrerelease: 2025-12-08
+popularity:
+  star: 42218
+  watcher: 222
+  fork: 3117
+  release: 57
+  contributor: 628
+  pullRequest: 2725
+  issue: 2849
+language:
+  Python: 5736100
+  Vim Script: 11844
+  Jupyter Notebook: 2848
+  Dockerfile: 699
+totalBytes: 5751491
+recent:
+  last30d:
+    since: 2026-10-28
+    release: 0
+    mergedPR: 51
+    openPR: 47
+    closedIssue: 5
+    openIssue: 6
+    commit: 59
+  last60d:
+    since: 2026-09-28
+    release: 2
+    mergedPR: 162
+    openPR: 62
+    closedIssue: 19
+    openIssue: 8
+    commit: 182
+  last90d:
+    since: 2026-08-29
+    release: 2
+    mergedPR: 204
+    openPR: 65
+    closedIssue: 26
+    openIssue: 9
+    commit: 215
+  last180d:
+    since: 2026-05-31
+    release: 2
+    mergedPR: 299
+    openPR: 69
+    closedIssue: 48
+    openIssue: 10
+    commit: 300
+  last360d:
+    since: 2025-12-02
+    release: 9
+    mergedPR: 440
+    openPR: 70
+    closedIssue: 83
+    openIssue: 10
+    commit: 435
+  last720d:
+    since: 2024-12-07
+    release: 12
+    mergedPR: 598
+    openPR: 70
+    closedIssue: 183
+    openIssue: 15
+    commit: 596
+total:
+  release: 57
+  mergedPR: 2108
+  openPR: 70
+  closedIssue: 2641
+  openIssue: 208
+  commit: 2529
+---
+path: /home/runner/.x-repo/github.com/psf/black
+collectedAt: 2026-11-27T08:39:45Z
+loc:
+  Python:
+    code: 130014
+    comments: 5240
+    blanks: 9412
+    files: 439
+  VimScript:
+    code: 370
+    comments: 8
+    blanks: 20
+    files: 2
+  Toml:
+    code: 237
+    comments: 35
+    blanks: 36
+    files: 14
+  Json:
+    code: 186
+    comments: 0
+    blanks: 0
+    files: 1
+  Yaml:
+    code: 91
+    comments: 5
+    blanks: 5
+    files: 1
+  Ini:
+    code: 58
+    comments: 3
+    blanks: 5
+    files: 1
+  Batch:
+    code: 27
+    comments: 1
+    blanks: 8
+    files: 1
+  Dockerfile:
+    code: 18
+    comments: 2
+    blanks: 8
+    files: 1
+  Makefile:
+    code: 10
+    comments: 6
+    blanks: 4
+    files: 1
+  Jupyter:
+    code: 6
+    comments: 1
+    blanks: 3
+    files: 6
+  Svg:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 5362
+    blanks: 2069
+    files: 33
+  Text:
+    code: 0
+    comments: 252
+    blanks: 43
+    files: 2
+total:
+  code: 131601
+  comments: 10990
+  blanks: 11683
+  files: 504
+---
+
+---
